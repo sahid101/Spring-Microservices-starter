@@ -1,2 +1,2 @@
 # Spring-Microservice-starter
-This is SpringBoot Microservice Project
+This is SpringBoot Microservices Project
